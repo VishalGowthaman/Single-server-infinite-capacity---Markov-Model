@@ -64,5 +64,11 @@ print("---------------------------------------------------------------")
 
 ## Result
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
+Average number of objects in the system : 0.08
+Average number of objects in the conveyor : 0.12
+Average waiting time of an object in the system : 2.00
+Average waiting time of an object in the conveyor : 1.33
+Probability that the system is busy :0.67
+Probability that the system is empty : 0.33.
 
 
